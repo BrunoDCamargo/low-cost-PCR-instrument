@@ -10,14 +10,14 @@ uint16_t tab_reg[25];              //Aloca 25 espaços na memória para comunioc
 
 //Pinos
 //Digitais
-#define WindPin 2      //Ventilador
-#define TopPin 3       //Placa de Cima
-#define BotPin 5       //Placa de Baixo
-#define Red 6          //LED RGB R
-#define Green 7        //LED RGB G
-#define Blue 8         //LED RGB B
-#define White 9        //White LED
-#define printtime 1000 //ms
+#define WindPin 2       //Ventilador
+#define TopPin 3        //Placa de Cima
+#define BotPin 5        //Placa de Baixo
+#define Red 6           //LED RGB R
+#define Green 7         //LED RGB G
+#define Blue 8          //LED RGB B
+#define White 9         //White LED
+#define printtime 1000  //ms
 //Analógicos
 #define Diode3Pin A0 //Diodo da Placa de Cima
 
